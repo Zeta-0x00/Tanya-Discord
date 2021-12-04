@@ -1,0 +1,10 @@
+{
+    "TOKEN_BOT": "OTE2NzI3MTY0NjA1NDU2NDI2.YauWtA.WOQhigeiboicxe6X0eHyebp3lQA",
+    "white_list": [],
+    "black_list": [
+        916732449743069224
+    ],
+    "LOG_CHANNEL": 916768044670406706,
+    "mute_role": "User",
+    "veri_role": "User"
+}
